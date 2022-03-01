@@ -1,0 +1,38 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Mulled Wine",
+  "icons": {
+    "32": "images/icon.svg"
+  },
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-017-7074520d97b5c592d413aed5f115f093.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(38, 35, 53)",
+      "toolbar_text": "rgb(233, 218, 253)",
+      "frame": "rgb(74, 62, 95)",
+      "tab_background_text": "rgb(233, 218, 253)",
+      "toolbar_field": "rgb(36, 27, 47)",
+      "toolbar_field_text": "rgb(233, 218, 253)",
+      "tab_line": "rgb(247, 163, 242)",
+      "popup": "rgb(74, 62, 95)",
+      "popup_text": "rgb(233, 218, 253)",
+      "icons": "rgb(247, 163, 242)",
+      "ntp_background": "rgb(36, 27, 47)",
+      "ntp_text": "rgb(233, 218, 253)",
+      "tab_loading": "rgb(247, 163, 242)"
+    }
+  }
+}
